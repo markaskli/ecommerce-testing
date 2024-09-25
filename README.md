@@ -5,6 +5,7 @@ Based on course from Udemy by Neil Cummings.
 To use, navigate to ecommerce-testing folder:
 
 Update appsettings.Development.json
+
 To start the API : 
 ```
 cd API
